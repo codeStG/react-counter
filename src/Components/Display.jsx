@@ -1,16 +1,12 @@
-import React, {useState} from 'react';
+// import React, { useState } from "react";
+// import ButtonPad from "./ButtonPad";
 
-function Display(props) {
-    // const [display,setDisplay] = useState(0);
+// function Display(props) {
+//   return (
+//     <section className="display">
+//       <span>{count}</span>
+//     </section>
+//   );
+// }
 
-    return (
-        <section className="display">
-            This is the Display for the Counter.
-        </section>
-    )
-
-
-}
-
-export default Display;
-
+// export default Display;
